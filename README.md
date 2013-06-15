@@ -58,7 +58,7 @@ Categorizing CSS rules in Base, Layout, Module, State, Theme
 
 Object oriented CSS
 
-coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/
+http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/
 
 ### Ideas
 
