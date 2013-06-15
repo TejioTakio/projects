@@ -8,13 +8,19 @@
 
 Responsive Websites, depends on the features of the device, for example Tablet, Smartphones, TVs or Laptops. Part of the base are media queries. 
 
+http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/
+
 ## FBP
 
 Flow-based programming is a way of separating the control flow of software from the actual software logic.
 
+http://noflojs.org/
+
 ## BEM
 
 Block, Element, Modifier
+
+http://coding.smashingmagazine.com/2013/02/21/the-history-of-the-bem-methodology/
 
 ### Definitions
 
@@ -36,6 +42,8 @@ Place related files together in the same folder, like stylesheets, scripts and i
 
 Scalable and modular architecture for CSS
 
+http://smacss.com/book/categorizing
+
 ### Ideas
 
 Categorizing CSS rules in Base, Layout, Module, State, Theme
@@ -49,6 +57,8 @@ Categorizing CSS rules in Base, Layout, Module, State, Theme
 ## OOCSS
 
 Object oriented CSS
+
+coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/
 
 ### Ideas
 
