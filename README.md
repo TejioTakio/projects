@@ -6,6 +6,8 @@
 
 ## RWD
 
+Responsive Websites, depends on the features of the device, for example Tablet, Smartphones, TVs or Laptops. Part of the base are media queries. 
+
 ## FBP
 
 Flow-based programming is a way of separating the control flow of software from the actual software logic.
