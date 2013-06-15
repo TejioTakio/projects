@@ -4,14 +4,54 @@
 
 http://de.slideshare.net/bradfrostweb/atomic-design
 
+### Principles
+
+ - Provides a methodology for crafting an effective design system
+ - Easily traverse from abstract to concrete
+ - Promotes consistency and cohesion
+ - Assembles rather than deconstructs
+
 ### Definitions 
 
- - Atoms
- - Moleculs
- - Organism
- - Templates
- - Pages
+#### Atoms
 
+ - Building blocks of an interface
+ - Cant be broken down any further without losing their meaning
+ - Abstract
+ - Often not too useful on thei own
+ - Good as an at-a-glance reference
+ - See all your global styles laid out at one
+
+#### Moleculs
+
+ - Group of atoms bonded together
+ - Smallest fundamentals units of a compound
+ - More concrete than atoms
+ - Encourage a "do one thing and do it well" philosophy
+ - Often serve as the backbone for a more complex system
+
+#### Organisms
+
+ - Group of molecules joined together to form a distinct section
+ - Complex molecules
+ - Can consist of similar and/or different molecule types
+ - Encourages creating standalone, portable, resuable components
+
+#### Templates
+
+ - Page-level
+ - Mostly comprised of groups of organisms
+ - Begin their life as HTML wireframes, increase fidelity over time
+ - Client facing. Very concrete
+ - Eventually becomes the deliverable / production code
+
+#### Pages
+
+ - Specific instance of a template
+ - Highest fidelity. Template content is replaced with real / sample content
+ - The hub for most people involved in the process
+ - Test the effectiveness of the system
+ - Test variations in the template: design / content tweaks, include / exclude organisms, etc
 
 ## RESS
 
@@ -99,3 +139,9 @@ http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented
  - Style Tiles (Show style choices)
  - Wireframes (Layout)
  - Prototype (Concrete styles and layouts)
+ - Design guide lines
+ - Grid layouts
+
+### Pages
+
+ - http://mobiledesignpatterngallery.com/
