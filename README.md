@@ -1,5 +1,7 @@
 ## REST + HATEOS (SOA)
 
+http://de.slideshare.net/trilancer/why-hateoas-1547275
+
 ## Atomic design
 
 http://de.slideshare.net/bradfrostweb/atomic-design
