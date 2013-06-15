@@ -2,6 +2,17 @@
 
 ## Atomic design
 
+http://de.slideshare.net/bradfrostweb/atomic-design
+
+### Definitions 
+
+ - Atoms
+ - Moleculs
+ - Organism
+ - Templates
+ - Pages
+
+
 ## RESS
 
 Responsive Design + Server Side Components
@@ -84,3 +95,6 @@ http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented
 
  - shame.css
  - reset.css / normalize.css
+ - Moodboards (roughly design style)
+ - Style Tiles (Show style choices)
+ - Wireframes (Layout)
