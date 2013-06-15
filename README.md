@@ -26,7 +26,7 @@ An element is a part of a block that performs a certain function. Elements are c
 
 ### Guidelines
 
-Place related files together in the same folder, like stylesheets, scripts and images.
+Place related files together in the same folder, like stylesheets, scripts and images. They made to be a compilation of resuable components.
 
 ## SMACSS
 
