@@ -4,6 +4,11 @@
 
 ## RESS
 
+Responsive Design + Server Side Components
+
+ - http://de.slideshare.net/4nd3rsen/ress-responsive-design-server-side-components-10084972
+ - http://www.netmagazine.com/tutorials/getting-started-ress
+
 ## RWD
 
 Responsive Websites, depends on the features of the device, for example Tablet, Smartphones, TVs or Laptops. Part of the base are media queries. 
@@ -78,4 +83,4 @@ http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented
 ### Ideas
 
  - shame.css
- - reset.css / normalize.css / base.css
+ - reset.css / normalize.css
