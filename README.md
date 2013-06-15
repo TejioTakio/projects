@@ -8,6 +8,8 @@
 
 ## FBP
 
+Flow-based programming is a way of separating the control flow of software from the actual software logic.
+
 ## BEM
 
 Block, Element, Modifier
